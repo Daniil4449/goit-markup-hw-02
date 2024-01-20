@@ -10,7 +10,7 @@ ul,
 ol {
   list-style: none;
 }
-/**!heder-styilsh**/
+/**!heder**/
 .logo {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
@@ -21,7 +21,7 @@ ol {
   text-transform: uppercase;
 }
 .logo-part {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color: #2e2f42;
 }
 .nav-link {
   color: #2e2f42;
@@ -54,8 +54,8 @@ ol {
 .contact-link:focus {
   color: #404bbf;
 }
-/**!heder-stylish**/
-/**!main-hero-stylish**/
+/**!heder**/
+/**!hero-section1**/
 .hero {
   background-color: #2e2f42;
 }
@@ -87,8 +87,8 @@ ol {
   background-color: #404bbf;
 }
 
-/**!main-hero-stylish**/
-/**!main-hero-benefits**/
+/**!hero-section1**/
+/**!benefits-section2**/
 
 .benefits {
   color: #fff;
@@ -121,14 +121,14 @@ ol {
   letter-spacing: 0.02em;
 }
 
-/**!main-hero**/
-/**!main-Our team**/
+/**!benefits-section2**/
+/**!main-our-team**/
 
-.OurTeam {
+.our-team {
   background-color: #f4f4fd;
 }
 
-.OurTeam-title {
+.our-team-title {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -138,16 +138,19 @@ ol {
   text-transform: capitalize;
 }
 
-.OurTeam-list-item {
+.our-team-list {
+}
+
+.our-team-list-item {
   color: #ffffff;
 }
 
-.OurTeam-item-picture {
+.our-team-picture {
   width: 264px;
   height: 260px;
 }
 
-.OurTeam-subtitle {
+.our-team-subtitle {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -155,20 +158,22 @@ ol {
   letter-spacing: 0.02em;
 }
 
-.OurTeam-text {
+.our-team-text {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-/**!main-Our team**/
-/**!main-Our-portfolio**/
 
-.OurPortfolio {
+/**!main-our-team**/
+
+/**!main-our-portfolio**/
+
+.our-portfolio {
   background-color: #fff;
 }
 
-.OurPortfolio-title {
+.our-portfolio-title {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -176,12 +181,15 @@ ol {
   line-height: 1.11;
   letter-spacing: 0.02em;
 }
-
-.OurPortfolio-item-picture {
-  width: 360px;
+.our-portfolio-list {
+}
+.our-portfolio-list-item {
 }
 
-.OurPortfolio-subtitle {
+.our-portfolio-item-picture {
+}
+
+.our-portfolio-subtitle {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
@@ -189,13 +197,13 @@ ol {
   letter-spacing: 0.02em;
 }
 
-.OurPortfolio-text {
+.our-portfolio-text {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-/**!main-Our-portfolio**/
+/**!main-our-portfolio**/
 /**!Footer**/
 
 .footer {
