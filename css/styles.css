@@ -137,6 +137,7 @@ ol {
 }
 
 .our-team-list {
+  color: #ffffff;
 }
 
 .our-team-list-item {
@@ -144,8 +145,6 @@ ol {
 }
 
 .our-team-picture {
-  width: 264px;
-  height: 260px;
 }
 
 .our-team-subtitle {
