@@ -139,10 +139,10 @@ ol {
 }
 
 .our-team-list {
+  color: #ffffff;
 }
 
 .our-team-list-item {
-  color: #ffffff;
 }
 
 .our-team-picture {
@@ -212,11 +212,13 @@ ol {
 
 .footer-logo {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: Raleway;sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
+
 }
 .footer-logo-part {
   color: #f4f4fd;
