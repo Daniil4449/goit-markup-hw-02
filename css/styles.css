@@ -181,7 +181,8 @@ ol {
   line-height: 1.11;
   letter-spacing: 0.02em;
 }
-.our-portfolio-list {color: #FFFFFF;
+.our-portfolio-list {
+  color: #ffffff;
 }
 .our-portfolio-list-item {
 }
@@ -212,17 +213,16 @@ ol {
 
 .footer-logo {
   color: #4d5ae5;
-  font-family: Raleway; sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-
 }
 .footer-logo-part {
   color: #f4f4fd;
-  font-family: Raleway; sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16;
