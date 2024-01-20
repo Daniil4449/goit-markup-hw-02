@@ -48,9 +48,8 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.contact-link:hover,
-.nav-link:focus {
-  color: #404bbf;
+.contact-link:hover {color: #404bbf;}
+.contact-link:focus {color: #404bbf;
 }
 /**!heder-stylish**/
 /**!main-hero-stylish**/
@@ -74,12 +73,12 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.04em;
   border-radius: 4px;
-  background-color: #4d5ae5;
+  background-color: #4D5AE5;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   cursor: pointer;
 }
 .hero-button :hover {
-  background-color: #404bbf;}
+  background-color: #404BBF;}
   .hero-button :focus {background-color: #404BBF}
 }
 /**!main-hero-stylish**/
